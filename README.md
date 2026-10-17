@@ -9,6 +9,7 @@
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-free%20models-6566F1?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
 [![Cost](https://img.shields.io/badge/cost-%240-brightgreen?style=for-the-badge)](#-free-models-only)
 [![Multilingual](https://img.shields.io/badge/replies%20in-any%20language-orange?style=for-the-badge&logo=googletranslate&logoColor=white)](#-features)
+[![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
 
 </div>
 
